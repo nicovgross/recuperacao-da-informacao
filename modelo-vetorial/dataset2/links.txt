@@ -1,0 +1,15 @@
+doc1 -> doc2, doc3, doc4, doc7, doc9, doc10, doc11, doc14, doc15
+doc2 -> doc1, doc4, doc7, doc8, doc11, doc14
+doc3 -> doc2, doc4, doc5, doc9, doc10, doc12, doc14, doc14, doc15
+doc4 -> doc2, doc3, doc9, doc11, doc 14
+doc5 -> doc2, doc7, doc9, doc14, doc15
+doc6 -> doc1, doc9, doc14, doc15
+doc7 -> doc5, doc6, doc9, doc10, doc11, doc13, doc 14, doc15
+doc8 -> doc2, doc3, doc4, doc7, doc9, doc10, doc11, doc14, doc15
+doc9 -> doc2, doc3, doc7, doc11, doc14
+doc10 -> doc2, doc7, doc9
+doc11 -> doc10, doc14, doc15
+doc12 -> doc2, doc4, doc7
+doc13 -> doc2, doc3, doc4, doc6, doc7, doc9, doc11, doc14, doc15
+doc14 -> doc2, doc3, doc4, doc9, doc10, doc11
+doc15 -> doc2, doc3, doc4, doc7, doc14		

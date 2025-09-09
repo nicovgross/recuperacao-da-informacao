@@ -1,0 +1,5 @@
+doc1 -> doc2, doc3, doc4
+doc2 -> doc3, doc4
+doc3 -> doc1
+doc4 -> doc1, doc3, doc5
+doc5 -> doc4

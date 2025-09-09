@@ -1,0 +1,1 @@
+A jogada envolve a torre, o peão e o rei.
